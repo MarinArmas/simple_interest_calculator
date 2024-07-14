@@ -36,4 +36,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[Apache License 2.0](https://github.com/MarinArmas/Final_Project_git/blob/main/LICENSE)
+[Apache License 2.0](https://github.com/MarinArmas/simple_interest_calculator/blob/main/LICENSE)
